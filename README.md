@@ -1,2 +1,2 @@
 # WebGL-Nature-Morte
-Represntation d'un tableau en 3D avec THREE.js
+Représentation d'un tableau en 3D avec THREE.js
